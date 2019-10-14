@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="movies">Film</string>
+    <string name="tvshow">Acara TV</string>
+    <string name="des" translatable="false">Deskripsi: </string>
+    <string name="detail" translatable="false">Detail Film</string>
+
+    <string name="title">Judul</string>
+    <string name="overview">Deskripsi</string>
+
+</resources>
